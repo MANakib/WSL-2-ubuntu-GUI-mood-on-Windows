@@ -75,6 +75,8 @@ Now i am starting my machine to access with full remote GUI Ubuntu
 
 * "sudo nano /etc/xrdp/startvm.sh"
 
+* "sudo /etc/init.d/xrdp start"
+
 # RDP from windows 
 
 <img width="320" alt="Windows RDP 'localhost:3390' " src="https://user-images.githubusercontent.com/10571987/102717854-1de43e80-430f-11eb-8e7c-84f6b540f94f.png">
